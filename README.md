@@ -1,2 +1,2 @@
-# simple_jetson_temperature_viewer
-C++ program for reading Jetson Nano temperature
+# Simple Jetson Nano 2Gb Temperature Viewer
+## C++ program for reading Jetson Nano temperature
